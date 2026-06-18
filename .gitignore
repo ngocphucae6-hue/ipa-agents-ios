@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+DerivedData/
+*.xcodeproj
+Payload/
+*.ipa
+
+# macOS
+.DS_Store
+
+# Images in workspace root (not part of the app)
+*.jpg
